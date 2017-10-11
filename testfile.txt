@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 a test file. second round of testing. this is not working
+=======
+a test file. second round of testing
+>>>>>>> 8e058dd5f294ee8203e79bcf72e96b01d8fb18dd
